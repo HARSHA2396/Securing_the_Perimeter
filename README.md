@@ -27,7 +27,7 @@ A major cryptocurrency exchange, **XYZ**, was hit with a cyberattack that led to
 ---
 
 ## 📁 Project Structure
-- `presentation/`: PowerPoint presentation
+- `presentation/`: PowerPoint Reports
 - `screenshots/`: Setup screenshots (VirtualBox, Filebeat, Kibana, etc.)
 - `documentation/`: Zero Trust comparison and other reports
 - `network-diagram/`: Updated draw.io network diagram
