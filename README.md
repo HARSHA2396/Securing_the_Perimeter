@@ -5,7 +5,7 @@
 ![Author](https://img.shields.io/badge/author-T%20Harsha%20Vardhan-orange)
  
 > **Project Type:** Cybersecurity Virtual Lab  
-> **Platform Used:** VirtualBox, ELK Stack, Kali Linux, Ubuntu, Windows
+> **Platform Used:** VirtualBox, ELK Stack, Kali Linux, Ubuntu, Window
 
 ---
 
